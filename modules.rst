@@ -1,4 +1,4 @@
-scripts
+demo2
 =======
 
 .. toctree::
